@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LotsOfProgfun.iml" filepath="$PROJECT_DIR$/LotsOfProgfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenModule.iml" filepath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkasample/client/akkasample/client.iml" filepath="$PROJECT_DIR$/akkasample/client/akkasample/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkasample/server/akkasample/server.iml" filepath="$PROJECT_DIR$/akkasample/server/akkasample/server.iml" />
+    </modules>
+  </component>
+</project>
+

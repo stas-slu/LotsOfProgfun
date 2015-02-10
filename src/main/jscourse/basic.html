@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Reverse string</title>
+</head>
+<body>
+<script>
+    ;'use strict';
+    var rev = function(s) {
+        console.info(s);
+        return s.split("").reverse().join("");
+    };
+
+    var str = ['0', '1', '2', '3'].join();
+    console.info("Reversed string:" + rev(str));
+
+    var token = setInterval(function() {
+        console.info(new Date().getDay());
+    }, 1000);
+
+    setTimeout(function(){
+        clearInterval(token)
+    }, 4000)
+
+
+</script>
+</body>
+</html>

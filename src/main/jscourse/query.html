@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Query</title>
+</head>
+<body>
+<script>
+    ;'use strict';
+    var argsProcessing = function() {
+        var query = document.location.search;
+        console.info("query as taken from browser: " + query);
+        var args = processQuery(query);
+        console.info("result object: " + args);
+    };
+
+    var processQuery = function(queryString){
+        var params = {}, queries, temp;
+
+        console.info("queries not cleaned and split: " + queryString);
+        queries = queryString.substring(1).split("&");
+        console.info("queries clean and split: " + queries);
+
+        // Convert the array of strings into an object
+        for (var i = 0, len = queries.length; i < len; i++ ) {
+            temp = queries[i].split('=');
+            console.info("[0]: " + temp[0] + ", [1]: " + temp[1]);
+            params[temp[0]] = temp[1]; //used as map here
+        }
+
+        return params;
+    };
+
+    argsProcessing();
+</script>
+</body>
+</html>

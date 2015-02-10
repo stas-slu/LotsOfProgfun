@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="css/formNew.css" rel="stylesheet">
+    <script src="script/script.js"></script>
+</head>
+<body>
+<fieldset class="employee-info">
+    <legend>Employee info</legend>
+
+    <form id="employeeTable">
+        <div>
+            <label for='name'>Name: </label>
+            <input name='name' id='name' size='30' type='text' placeholder='How your mama call you?'/>
+        </div>
+        <div>
+            <label for='lastname'>Last name: </label>
+            <input name='lastame' id='lastname' size='30' type='text' placeholder="And papa last name?"/>
+        </div>
+        <div>
+            <label for='department'>Department: </label>
+            <select name="department-dropdown" id='department'>
+                <option value="r&d"> R&D </option>
+                <option value="qa" selected> QA </option>
+                <option value="hr"> HR </option>
+                <option value="system"> System </option>
+            </select>
+        </div>
+        <div>
+            <label for='age'>Age: </label>
+            <input name='age' id='age' size='30' type='text' placeholder="What's my age again?"/>
+        </div>
+        <div>
+            <label>Gender: </label>
+            <label for='gender1'>Male</label>
+            <input id="gender1" name="gender" type="radio" value="male">
+            <label for='gender2'>Female</label>
+            <input id="gender2" name="gender" type="radio" value="female">
+        </div>
+        <div class="button">
+            <input type="button" value="Add employee" onclick="addRowNew('dataTable')" />
+        </div>
+    </form>
+</fieldset>
+
+<fieldset class="employees">
+    <legend>Employees</legend>
+
+    <input type="button" value="Remove" onclick="deleteRows('dataTable')" />
+    <input type="button" value="Select All" onclick="checkAll('dataTable')" />
+
+    <table id="dataTable" width="350px" border="1">
+        <tr>
+            <td><input type="checkbox" name="chk"/></td>
+            <td><label></label></td>
+            <td><label></label></td>
+            <td><label></label></td>
+            <td><label></label></td>
+            <td><label></label></td>
+        </tr>
+    </table>
+
+</fieldset>
+
+<script type="text/javascript">
+    ;(function () {
+        'use strict';
+
+
+    })();
+
+</script>
+</body>
+</html>
