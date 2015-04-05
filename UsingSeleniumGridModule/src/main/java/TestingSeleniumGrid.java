@@ -49,7 +49,7 @@ public class TestingSeleniumGrid {
         DesiredCapabilities capability = DesiredCapabilities.chrome();
         //Instantiating the driver object through new RemoteWebDriver() tells the script executor that this script is to be executed through selenium server
         driver = new RemoteWebDriver(capability);
-        driver = new ChromeDriver();
+        //driver = new ChromeDriver();
         baseUrl = "https://www.google.com";
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }

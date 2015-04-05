@@ -34,290 +34,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b10535e-3db8-422d-8758-a1e1b830a7ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/BrowserStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/BrowserstackWithJunitAndTestNgWithParallelRuns.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EventFiringWebDriverModule/src/main/java/EventFiringWebdriverExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EventFiringWebDriverModule/src/main/java/EventListenerType1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EventFiringWebDriverModule/src/main/java/EventListenerType2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/usingjunit/JUnitParallelSample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/usingjunit/JUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/LocalSample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_detro_ghostdriver_phantomjsdriver_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_13_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_sitebricks_sitebricks_0_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_sitebricks_sitebricks_annotations_0_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_sitebricks_sitebricks_client_0_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_sitebricks_sitebricks_converter_0_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_intellij_annotations_7_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_async_http_client_1_6_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mx4j_mx4j_tools_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_lightbody_bmp_browsermob_proxy_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_qualitycheck_quality_check_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_uadetector_uadetector_core_0_9_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_uadetector_uadetector_resources_2014_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared4_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_48.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_47.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_48.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_1_2_alpha_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_api_1_0_alpha_33.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_7_3_0_v20110203.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_7_3_0_v20110203.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_15_v20140411.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_7_3_0_v20110203.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_15_v20140411.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_7_3_0_v20110203.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_7_3_0_v20110203.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_7_3_0_v20110203.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_7_3_0_v20110203.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_15_v20140411.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_websocket_8_1_15_v20140411.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_phantom_driver_1_1_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_archive_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_archive_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_archive_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mvel_mvel2_2_1_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_rc_repacked_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_7_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_44_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_connector_wagon_1_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webbitserver_webbit_0_4_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/usingjunit/Parallelized.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PlayWithScala/src/main/java/PlayObject.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EventFiringWebDriverModule/PlayingWithEventFiringWebDriver.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EventFiringWebDriverModule/PlayingWithEventFiringWebDriverModule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProgFun/ProgFun.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UsingProxy/src/main/java/ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/usingtestng/TestNGParallel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/usingtestng/TestNGSample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestNgExample/TestNgExample.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UsingSeleniumGridModule/src/main/java/TestingSeleniumGrid.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UsingProxy/UsingProxy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UsingSeleniumGridModule/UsingSeleniumGrid.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UsingSeleniumGridModule/UsingSeleniumGridModule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenArtifact.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/WebApplicationProjectWithMavenArtifact_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/WebApplicationProjectWithMavenArtifact_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EventFiringWebDriverModule/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PlayWithScala/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProgFun/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestNgExample/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UsingProxy/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UsingSeleniumGridModule/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/usingtestng/testng.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_bundle_2_10_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/tomcat/conf/tomcat-users.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/tomcat/conf/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/tomcat/work/localEngine/localhost/WebApplicationProjectWithMavenArtifact/org/apache/jsp/WEB_002dINF/pages/index_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/tomcat/work/localEngine/localhost/WebApplicationProjectWithMavenArtifact/org/apache/jsp/WEB_002dINF/pages/index_jsp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/akkasample/client.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/resources/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/resources/common.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/scala/sample/ClientKernel.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/scala/sample/ClientProducer.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/scala/sample/Mediator.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/scala/sample/SampleClient.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/scala/sample/othersamples/SimpleAkkaActorExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/scala/sample/othersamples/SimpleAkkaAskFutureAwaitExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/src/main/scala/sample/othersamples/SimpleAkkaFuturesExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/common.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/ClientKernel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/ClientProducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/Mediator$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/Mediator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/SampleClient$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/SampleClient$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/SampleClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/AskNameMessage$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/AskNameMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/AskTest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/AskTest$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/AskTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/Futures$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/Futures$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/Futures$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/Futures.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/HelloActor$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/HelloActor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/HelloActorWithParameter$$anonfun$receive$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/HelloActorWithParameter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/Main$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/Main$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/Main$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/TestActor$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/client/target/classes/sample/othersamples/TestActor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/akkasample/server.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/src/main/resources/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/src/main/resources/common.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/src/main/scala/sample/SampleServer.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/src/main/scala/sample/ServerConsumer.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/target/classes/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/target/classes/common.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/target/classes/sample/SampleServer$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/target/classes/sample/SampleServer$delayedInit$body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/target/classes/sample/SampleServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/target/classes/sample/ServerConsumer$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/akkasample/server/target/classes/sample/ServerConsumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/HelloWorldJava.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/HelloWorldScala$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/HelloWorldScala.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/fileshandling/ArchiveFileFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/fileshandling/FileHandlers$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/fileshandling/FileHandlers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/initializeclasswithoutnew/ExampleClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/initializeclasswithoutnew/InitializeObjectWithoutNew.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/observerpattern/BinaryObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/observerpattern/HexaObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/observerpattern/Observer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/observerpattern/ObserverPatternDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/observerpattern/OctalObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/javastuff/observerpattern/SubjectNumValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/Converter$$anon$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/Converter$$anon$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/Converter$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/Converter$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/Converter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/HelloWorld$$anon$1$$anon$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/HelloWorld$$anon$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/HelloWorld$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/scalaswing/HelloWorld.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/akkasample/akkasample.iml" afterPath="$PROJECT_DIR$/PlayWithScala/PlayWithScala.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/HelloWorldScala.scala" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/HelloWorldScala.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/mystuff/01_basic_variables_objects.sc" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/mystuff/01_basic_variables_objects.sc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/mystuff/02_data_structures.sc" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/mystuff/02_data_structures.sc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/mystuff/03_combinators.sc" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/mystuff/03_combinators.sc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/mystuff/04_tuples.sc" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/mystuff/04_tuples.sc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/mystuff/05_oop.sc" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/mystuff/05_oop.sc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/mystuff/06_pattern_matching_and_regular_expressions.sc" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/mystuff/06_pattern_matching_and_regular_expressions.sc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/mystuff/07_object_classes.sc" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/mystuff/07_object_classes.sc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/scalaswing/Converter.scala" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/scalaswing/Converter.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Scala/scalaswing/HelloWorld.scala" afterPath="$PROJECT_DIR$/ProgFun/src/main/Scala/scalaswing/HelloWorld.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/HelloWorldJava.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/HelloWorldJava.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/fileshandling/ArchiveFileFilter.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/fileshandling/ArchiveFileFilter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/fileshandling/FileHandlers.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/fileshandling/FileHandlers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/initializeclasswithoutnew/ExampleClass.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/initializeclasswithoutnew/ExampleClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/initializeclasswithoutnew/InitializeObjectWithoutNew.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/initializeclasswithoutnew/InitializeObjectWithoutNew.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/observerpattern/BinaryObserver.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/observerpattern/BinaryObserver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/observerpattern/HexaObserver.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/observerpattern/HexaObserver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/observerpattern/Observer.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/observerpattern/Observer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/observerpattern/ObserverPatternDemo.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/observerpattern/ObserverPatternDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/observerpattern/OctalObserver.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/observerpattern/OctalObserver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/javastuff/observerpattern/SubjectNumValue.java" afterPath="$PROJECT_DIR$/ProgFun/src/main/java/javastuff/observerpattern/SubjectNumValue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/jscourse/basic.html" afterPath="$PROJECT_DIR$/ProgFun/src/main/jscourse/basic.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/jscourse/finalproject/css/form.css" afterPath="$PROJECT_DIR$/ProgFun/src/main/jscourse/finalproject/css/form.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/jscourse/finalproject/css/formNew.css" afterPath="$PROJECT_DIR$/ProgFun/src/main/jscourse/finalproject/css/formNew.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/jscourse/finalproject/mainproject.html" afterPath="$PROJECT_DIR$/ProgFun/src/main/jscourse/finalproject/mainproject.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/jscourse/finalproject/script/script.js" afterPath="$PROJECT_DIR$/ProgFun/src/main/jscourse/finalproject/script/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/jscourse/modulepattern.html" afterPath="$PROJECT_DIR$/ProgFun/src/main/jscourse/modulepattern.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/jscourse/overridefunction.html" afterPath="$PROJECT_DIR$/ProgFun/src/main/jscourse/overridefunction.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/jscourse/query.html" afterPath="$PROJECT_DIR$/ProgFun/src/main/jscourse/query.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName.war" afterPath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LotsOfProgfun.iml" afterPath="$PROJECT_DIR$/LotsOfProgfun.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenModule.iml" afterPath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/maven-archiver/pom.properties" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestNgExample/TestNgExample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestNgExample/pom.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UsingSeleniumGridModule/src/main/java/TestingSeleniumGrid.java" afterPath="$PROJECT_DIR$/UsingSeleniumGridModule/src/main/java/TestingSeleniumGrid.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/pom.xml" afterPath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LotsOfProgfun.iws" />
@@ -354,51 +75,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UsingProxy/src/main/java/ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1410">
-              <caret line="16" column="69" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="2025">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestNgExample/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestNgExample.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestNgExample/TestNgExample.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.22900763" vertical-offset="0" max-vertical-offset="2025">
+              <caret line="8" column="190" selection-start-line="8" selection-start-column="190" selection-end-line="8" selection-end-column="190" />
               <folding />
             </state>
           </provider>
@@ -408,17 +89,17 @@
         <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/java/controller/BaseController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/pages/index.jsp">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -438,16 +119,16 @@
         <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/resources/logback.xml">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/pages/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -470,7 +151,9 @@
       <list>
         <option value="$PROJECT_DIR$/ProgFun/pom.xml" />
         <option value="$PROJECT_DIR$/TestNgExample/pom.xml" />
+        <option value="$PROJECT_DIR$/UsingSeleniumGridModule/src/main/java/TestingSeleniumGrid.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/pom.xml" />
       </list>
     </option>
   </component>
@@ -593,6 +276,96 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebApplicationProjectWithMavenModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebApplicationProjectWithMavenModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebApplicationProjectWithMavenModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LotsOfProgfun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UsingSeleniumGridModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
@@ -660,7 +433,7 @@
       <recent name="$PROJECT_DIR$/akkasample/otherexamples/src/main/scala/sample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EventFiringWebdriverExample">
+  <component name="RunManager" selected="Application.ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls">
     <configuration default="false" name="ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls" />
@@ -1122,11 +895,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.EventFiringWebdriverExample" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.JUnitParallelSample.testSimple" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldScala" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EventFiringWebdriverExample" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.JUnitParallelSample.testSimple" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorldScala" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1167,12 +940,19 @@
       <workItem from="1427790650086" duration="1065000" />
       <workItem from="1427791865384" duration="354000" />
       <workItem from="1427792898844" duration="36000" />
-      <workItem from="1428236078055" duration="1147000" />
+      <workItem from="1428236078055" duration="2179000" />
     </task>
+    <task id="LOCAL-00001" summary="Playing with code">
+      <created>1428237272453</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1428237272453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56731000" />
+    <option name="totallyTimeSpent" value="57763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
@@ -1190,7 +970,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890996" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26464325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19542067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4436019" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1227,6 +1007,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Playing with code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Playing with code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1299,13 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/LocalSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1418,16 +1193,6 @@
           <caret line="383" column="10" selection-start-line="383" selection-start-column="10" selection-end-line="383" selection-end-column="10" />
           <folding>
             <element signature="e#0#17915#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/BrowserStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
@@ -1596,48 +1361,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestNgExample/target/classes/BrowserStack.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#1078#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNgExample/target/classes/LocalSample.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#763#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UsingProxy/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="720">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNgExample/target/classes/usingjunit/JUnitParallelSample.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#3073#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EventFiringWebDriverModule/src/main/java/EventFiringWebdriverExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1647,7 +1374,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="249" max-vertical-offset="1785">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1676,18 +1403,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/java/controller/BaseController.java">
+    <entry file="file://$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/BrowserStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/pages/index.jsp">
+    <entry file="file://$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/src/main/java/LocalSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1027">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UsingProxy/src/main/java/ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UsingSeleniumGridModule/src/main/java/TestingSeleniumGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="386" max-vertical-offset="1035">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EventFiringWebDriverModule/src/main/java/EventFiringWebdriverExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1702,48 +1453,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1027">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/pom.xml">
+    <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/java/controller/BaseController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UsingProxy/src/main/java/ProxyIntercaptingAndFilteringRequestsAndBlacklistingUrls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1410">
-          <caret line="16" column="69" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1027">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestNgExample/pom.xml">
+    <entry file="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNgExample/TestNgExample.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1027">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.22900763" vertical-offset="0" max-vertical-offset="2025">
+          <caret line="8" column="190" selection-start-line="8" selection-start-column="190" selection-end-line="8" selection-end-column="190" />
           <folding />
         </state>
       </provider>

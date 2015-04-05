@@ -12,7 +12,6 @@
     <modules>
         <module>WebApplicationProjectWithMavenModule</module>
         <module>UsingSeleniumGridModule</module>
-        <module>TestNgExample</module>
         <module>UsingProxy</module>
         <module>EventFiringWebDriverModule</module>
         <module>ProgFun</module>
