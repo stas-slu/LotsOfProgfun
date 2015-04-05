@@ -22,16 +22,30 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="automate-java-samples" />
+        <module name="BrowserstackWithJunitAndTestNgWithParallelRuns" />
         <module name="client" />
         <module name="otherexamples" />
+        <module name="PlayingWithEventFiringWebDriver" />
+        <module name="PlayWithScala" />
+        <module name="ProgFun" />
         <module name="server" />
-        <module name="WebApplicationProjectWithMavenModule" />
+        <module name="UsingProxy" />
+        <module name="UsingSeleniumGrid" />
+        <module name="WebApplicationProjectWithMavenArtifact" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="LotsOfProgfun" target="1.6" />
+      <module name="PlayingWithEventFiringWebDriver" target="1.6" />
+      <module name="PlayingWithEventFiringWebDriverModule" target="1.6" />
+      <module name="ProgFun" target="1.6" />
+      <module name="TestNgExample" target="1.6" />
+      <module name="UsingProxy" target="1.6" />
+      <module name="UsingSeleniumGrid" target="1.6" />
+      <module name="UsingSeleniumGridModule" target="1.6" />
+      <module name="WebApplicationProjectWithMavenArtifact" target="1.7" />
       <module name="WebApplicationProjectWithMavenModule" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
-

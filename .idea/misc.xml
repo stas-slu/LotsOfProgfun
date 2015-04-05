@@ -12,10 +12,13 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/akkasample/pom.xml" />
+        <option value="$PROJECT_DIR$/PlayWithScala/pom.xml" />
+        <option value="$PROJECT_DIR$/ProgFun/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/TestNgExample/pom.xml" />
         <option value="$PROJECT_DIR$/akkasample/otherexamples/pom.xml" />
         <option value="$PROJECT_DIR$/akkasample/pom.xml" />
       </set>
@@ -25,4 +28,3 @@
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
-

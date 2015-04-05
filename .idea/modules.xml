@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/BrowserstackWithJunitAndTestNgWithParallelRuns.iml" filepath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/BrowserstackWithJunitAndTestNgWithParallelRuns.iml" />
       <module fileurl="file://$PROJECT_DIR$/LotsOfProgfun.iml" filepath="$PROJECT_DIR$/LotsOfProgfun.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenModule.iml" filepath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayWithScala/PlayWithScala.iml" filepath="$PROJECT_DIR$/PlayWithScala/PlayWithScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventFiringWebDriverModule/PlayingWithEventFiringWebDriver.iml" filepath="$PROJECT_DIR$/EventFiringWebDriverModule/PlayingWithEventFiringWebDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgFun/ProgFun.iml" filepath="$PROJECT_DIR$/ProgFun/ProgFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsingProxy/UsingProxy.iml" filepath="$PROJECT_DIR$/UsingProxy/UsingProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsingSeleniumGridModule/UsingSeleniumGrid.iml" filepath="$PROJECT_DIR$/UsingSeleniumGridModule/UsingSeleniumGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenArtifact.iml" filepath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenArtifact.iml" />
       <module fileurl="file://$PROJECT_DIR$/akkasample/client/akkasample/client.iml" filepath="$PROJECT_DIR$/akkasample/client/akkasample/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/akkasample/server/akkasample/server.iml" filepath="$PROJECT_DIR$/akkasample/server/akkasample/server.iml" />
     </modules>
   </component>
 </project>
-
