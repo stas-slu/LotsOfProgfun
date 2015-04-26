@@ -25,12 +25,13 @@
         <module name="automate-java-samples" />
         <module name="BrowserstackWithJunitAndTestNgWithParallelRuns" />
         <module name="client" />
+        <module name="JavaAndScalaFunctionality" />
+        <module name="JettyExperimentingModule" />
         <module name="otherexamples" />
-        <module name="PlayingWithEventFiringWebDriver" />
         <module name="PlayWithScala" />
         <module name="ProgFun" />
+        <module name="SeleniumTipsAndTricks" />
         <module name="server" />
-        <module name="UsingProxy" />
         <module name="UsingSeleniumGrid" />
         <module name="WebApplicationProjectWithMavenArtifact" />
       </profile>

@@ -14,11 +14,15 @@
         <option value="$PROJECT_DIR$/akkasample/pom.xml" />
         <option value="$PROJECT_DIR$/PlayWithScala/pom.xml" />
         <option value="$PROJECT_DIR$/ProgFun/pom.xml" />
+        <option value="$PROJECT_DIR$/SeleniumTipsAndTricks/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaAndScalaFunctionality/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/EventFiringWebDriverModule/pom.xml" />
         <option value="$PROJECT_DIR$/TestNgExample/pom.xml" />
+        <option value="$PROJECT_DIR$/UsingProxy/pom.xml" />
         <option value="$PROJECT_DIR$/akkasample/otherexamples/pom.xml" />
         <option value="$PROJECT_DIR$/akkasample/pom.xml" />
       </set>

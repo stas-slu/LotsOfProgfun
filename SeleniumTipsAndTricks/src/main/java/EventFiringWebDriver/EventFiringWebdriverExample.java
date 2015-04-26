@@ -1,14 +1,16 @@
+package EventFiringWebDriver;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
 public class EventFiringWebdriverExample {
 
     public static void main(String[] args) {
 
-        WebDriver driver = new FirefoxDriver();
+        //WebDriver driver = new FirefoxDriver();
+        WebDriver driver = new ChromeDriver();
 
         EventFiringWebDriver eventFiringWD= new EventFiringWebDriver(driver);
 
@@ -17,7 +19,7 @@ public class EventFiringWebdriverExample {
         //Register the Listener with the event firing driver
         eventFiringWD.register(eventListener);
 
-        eventFiringWD.get("https://www.google.co.in/");
+        eventFiringWD.get("https://www.google.co.il/");
 
         eventFiringWD.findElement(By.className("nosuchclassName"));
 

@@ -12,11 +12,12 @@
     <modules>
         <module>WebApplicationProjectWithMavenModule</module>
         <module>UsingSeleniumGridModule</module>
-        <module>UsingProxy</module>
         <module>EventFiringWebDriverModule</module>
+        <module>SeleniumTipsAndTricks</module>
         <module>ProgFun</module>
         <module>BrowserstackWithJunitAndTestNgWithParallelRuns</module>
         <module>PlayWithScala</module>
+        <module>JettyExperimentingModule</module>
     </modules>
 
 </project>
