@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="WebApplicationProjectWithMavenArtifact" />
+          <element id="module-output" name="WebApplicationSpringAndTomcat" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.1.RELEASE" />
@@ -23,9 +23,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="WebApplicationProjectWithMavenArtifact/web/Web" />
+      <element id="javaee-facet-resources" facet="WebApplicationSpringAndTomcat/web/Web" />
     </root>
   </artifact>
 </component>

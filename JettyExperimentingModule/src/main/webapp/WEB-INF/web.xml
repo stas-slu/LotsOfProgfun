@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- It's for the servlets project -->
+<web-app
+        xmlns="http://java.sun.com/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+        version="2.5">
+    <servlet>
+        <servlet-name>Hello</servlet-name>
+        <servlet-class>JettyEmbeddedSimpleProjects.ServerServlets.HelloServlet</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>HelloIt</servlet-name>
+        <servlet-class>JettyEmbeddedSimpleProjects.ServerServlets.HelloServlet</servlet-class>
+
+        <init-param>
+            <param-name>myParam</param-name>
+            <param-value>Buongiorno Mondo</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet>
+        <servlet-name>HelloFr</servlet-name>
+        <servlet-class>JettyEmbeddedSimpleProjects.ServerServlets.HelloServlet</servlet-class>
+
+        <init-param>
+            <param-name>myParam</param-name>
+            <param-value>Bonjour le Monde</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Hello</servlet-name>
+        <url-pattern>/hello/*</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>HelloIt</servlet-name>
+        <url-pattern>/it/*</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>HelloFr</servlet-name>
+        <url-pattern>/fr/*</url-pattern>
+    </servlet-mapping>
+</web-app>

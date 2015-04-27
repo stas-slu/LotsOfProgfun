@@ -4,7 +4,7 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule" />
+    <file type="web" url="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat" />
   </component>
   <component name="IdProvider" IDEtalkID="0C76EDB5D88ED14D90544CFD9BD96BFF" />
   <component name="MavenProjectsManager">

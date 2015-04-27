@@ -10,9 +10,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>WebApplicationProjectWithMavenModule</module>
+        <module>WebApplicationSpringAndTomcat</module>
         <module>UsingSeleniumGridModule</module>
-        <module>EventFiringWebDriverModule</module>
         <module>SeleniumTipsAndTricks</module>
         <module>ProgFun</module>
         <module>BrowserstackWithJunitAndTestNgWithParallelRuns</module>

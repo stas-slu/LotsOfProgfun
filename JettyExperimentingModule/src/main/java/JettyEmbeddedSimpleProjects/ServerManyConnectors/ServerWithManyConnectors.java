@@ -1,12 +1,10 @@
-package JettyEmbeddingJetty;
+package JettyEmbeddedSimpleProjects.ServerManyConnectors;
 
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.nio.SelectChannelConnector;
 import org.eclipse.jetty.server.ssl.SslSelectChannelConnector;
 import org.eclipse.jetty.util.thread.QueuedThreadPool;
-
-import javax.net.ssl.SSLContext;
 
 
 /**
@@ -31,7 +29,7 @@ import javax.net.ssl.SSLContext;
  * A Jetty server with multiple connectors.
  * https://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty
  */
-public class ManyConnectors {
+public class ServerWithManyConnectors {
 
     public static void main(String[] args) throws Exception
     {
@@ -58,7 +56,8 @@ public class ManyConnectors {
         cf.setKeyStorePassword("OBF:1vny1zlo1x8e1vnw1vn61x8g1zlu1vn4");
         cf.setKeyManagerPassword("OBF:1u2u1wml1z7s1z7a1wnl1u2g");*/ // problematic import
 
-        server.setConnectors(new Connector[]{ connector0, connector1, ssl_connector });
+        //server.setConnectors(new Connector[]{ connector0, connector1, ssl_connector }); // SSL Connector not work. In real project should be investigated.
+        server.setConnectors(new Connector[]{ connector0, connector1 });
 
         server.setHandler(new HelloHandler());
 

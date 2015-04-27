@@ -10,7 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/ProgFun/ProgFun.iml" filepath="$PROJECT_DIR$/ProgFun/ProgFun.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeleniumTipsAndTricks/SeleniumTipsAndTricks.iml" filepath="$PROJECT_DIR$/SeleniumTipsAndTricks/SeleniumTipsAndTricks.iml" />
       <module fileurl="file://$PROJECT_DIR$/UsingSeleniumGridModule/UsingSeleniumGrid.iml" filepath="$PROJECT_DIR$/UsingSeleniumGridModule/UsingSeleniumGrid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenArtifact.iml" filepath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenArtifact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/WebApplicationSpringAndTomcat.iml" filepath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/WebApplicationSpringAndTomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/akkasample/client/akkasample/client.iml" filepath="$PROJECT_DIR$/akkasample/client/akkasample/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/akkasample/server/akkasample/server.iml" filepath="$PROJECT_DIR$/akkasample/server/akkasample/server.iml" />
     </modules>

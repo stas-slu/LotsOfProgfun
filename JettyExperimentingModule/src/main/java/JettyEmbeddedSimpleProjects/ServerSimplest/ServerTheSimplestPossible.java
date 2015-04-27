@@ -1,4 +1,4 @@
-package JettyEmbeddingJetty;
+package JettyEmbeddedSimpleProjects.ServerSimplest;
 
 import org.eclipse.jetty.server.Server;
 
@@ -8,12 +8,12 @@ import org.eclipse.jetty.server.Server;
  *
  * https://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty
  */
-public class SimplestServer
+public class ServerTheSimplestPossible
 {
     public static void main(String[] args) throws Exception
     {
         Server server = new Server(8080);
-        server.setHandler(new HelloHandler());
+        server.setHandler(new HelloHandlerSimplest());
         server.start();
         server.join();
     }

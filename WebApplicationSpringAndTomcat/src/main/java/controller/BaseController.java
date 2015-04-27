@@ -8,7 +8,21 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-//http://www.mkyong.com/maven/how-to-create-a-web-application-project-with-maven/
+/**
+ *
+ * In this tutorial, we will show you how to create a Java web project (Spring MVC) with Maven.
+
+ Technologies used :
+
+ Maven 3.1.1
+ Eclipse 4.2
+ JDK 7
+ Spring 4.1.1.RELEASED
+ Tomcat 7
+ Logback 1.0.13
+ *
+ * http://www.mkyong.com/maven/how-to-create-a-web-application-project-with-maven/
+ */
 
 @Controller
 public class BaseController { //BaseController is sort of reserved word. Beans creation fails if i rename it
