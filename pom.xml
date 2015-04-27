@@ -16,7 +16,7 @@
         <module>ProgFun</module>
         <module>BrowserstackWithJunitAndTestNgWithParallelRuns</module>
         <module>PlayWithScala</module>
-        <module>JettyExperimentingModule</module>
+        <module>WebApplicationJettyExperimentingModule</module>
     </modules>
 
 </project>

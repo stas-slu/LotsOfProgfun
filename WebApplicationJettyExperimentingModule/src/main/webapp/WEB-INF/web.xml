@@ -6,7 +6,7 @@
         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
         version="2.5">
     <servlet>
-        <servlet-name>Hello</servlet-name>
+        <servlet-name>Hello</servlet-name> <!-- No param value passed in this one, see in servlet init how it treated -->
         <servlet-class>JettyEmbeddedSimpleProjects.ServerServlets.HelloServlet</servlet-class>
     </servlet>
 
@@ -16,7 +16,7 @@
 
         <init-param>
             <param-name>myParam</param-name>
-            <param-value>Buongiorno Mondo</param-value>
+            <param-value>Buongiorno Mondo</param-value> <!-- param value passed -->
         </init-param>
     </servlet>
 
@@ -26,7 +26,7 @@
 
         <init-param>
             <param-name>myParam</param-name>
-            <param-value>Bonjour le Monde</param-value>
+            <param-value>Bonjour le Monde</param-value> <!-- param value passed -->
         </init-param>
     </servlet>
 

@@ -33,6 +33,7 @@
         <module name="SeleniumTipsAndTricks" />
         <module name="server" />
         <module name="UsingSeleniumGrid" />
+        <module name="WebApplicationJettyExperimentingModule" />
         <module name="WebApplicationProjectWithMavenArtifact" />
         <module name="WebApplicationSpringAndTomcat" />
       </profile>

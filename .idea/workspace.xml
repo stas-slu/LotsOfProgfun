@@ -34,56 +34,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b10535e-3db8-422d-8758-a1e1b830a7ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/HelloHandlerOneContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/HelloHandlerSimplest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/HelloServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/ServerWithOneContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/ServerWithServletsInitializedInWebXml.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/webapp/WEB-INF/web.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/HelloWorld.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/HelloHandler.java" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/HelloHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/ManyConnectors.java" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/ServerWithManyConnectors.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/SimplestServer.java" afterPath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/ServerTheSimplestPossible.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenArtifact.iml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/WebApplicationSpringAndTomcat.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/WebApplicationProjectWithMavenModule.iml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/WebApplicationProjectWithMavenModule.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/pom.xml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/java/controller/BaseController.java" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/java/controller/BaseController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/classes/logback.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/mvc-dispatcher-servlet.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/pages/index.jsp" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/pages/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName.war" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName.war" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/classes/controller/BaseController.class" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/classes/controller/BaseController.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/classes/logback.xml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/classes/logback.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/aopalliance-1.0.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/jcl-over-slf4j-1.7.5.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/jcl-over-slf4j-1.7.5.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/jstl-1.2.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/logback-classic-1.0.13.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/logback-classic-1.0.13.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/logback-core-1.0.13.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/logback-core-1.0.13.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/scala-library-2.10.3.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/scala-library-2.10.3.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/scala-swing-2.10.4.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/scala-swing-2.10.4.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/slf4j-api-1.7.5.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/slf4j-api-1.7.5.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-aop-4.1.1.RELEASE.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-aop-4.1.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-beans-4.1.1.RELEASE.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-beans-4.1.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-context-4.1.1.RELEASE.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-context-4.1.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-core-4.1.1.RELEASE.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-core-4.1.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-expression-4.1.1.RELEASE.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-expression-4.1.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-web-4.1.1.RELEASE.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-web-4.1.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-webmvc-4.1.1.RELEASE.jar" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/lib/spring-webmvc-4.1.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/pages/index.jsp" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/webapp/WEB-INF/pages/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/WebApplicationProjectWithMavenFinalName/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/classes.timestamp" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/classes.timestamp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/classes/controller/BaseController.class" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/WebApplicationProjectWithMavenFinalName/WEB-INF/classes/controller/BaseController.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/classes/logback.xml" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/resources/logback.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JettyExperimentingModule/JettyExperimentingModule.iml" afterPath="$PROJECT_DIR$/JettyExperimentingModule/JettyExperimentingModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/WebApplicationProjectWithMavenArtifact_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/WebApplicationProjectWithMavenArtifact_war_exploded.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/classes/controller/BaseController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/target/classes/logback.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/JettyExperimentingModule.iml" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/WebApplicationJettyExperimentingModule.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/pom.xml" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/HelloHandler.java" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/HelloHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/ServerWithManyConnectors.java" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/ServerWithManyConnectors.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/HelloHandlerOneContext.java" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/HelloHandlerOneContext.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/ServerWithOneContext.java" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/ServerWithOneContext.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/HelloServlet.java" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/HelloServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/ServerWithServletsInitializedInWebXml.java" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/ServerWithServletsInitializedInWebXml.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/HelloHandlerSimplest.java" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/HelloHandlerSimplest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/ServerTheSimplestPossible.java" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/ServerTheSimplestPossible.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JettyExperimentingModule/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JettyExperimentingModule/pom.xml" afterPath="$PROJECT_DIR$/JettyExperimentingModule/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LotsOfProgfun.iws" />
@@ -104,6 +70,7 @@
     <ignored path="$PROJECT_DIR$/JavaAndScalaFunctionality/target/" />
     <ignored path="$PROJECT_DIR$/JettyExperimentingModule/target/" />
     <ignored path="$PROJECT_DIR$/WebApplicationSpringAndTomcat/target/" />
+    <ignored path="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,17 +92,70 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="780">
-              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="227" max-vertical-offset="780">
+              <caret line="28" column="83" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6792453" vertical-offset="30" max-vertical-offset="2025">
+              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.5" vertical-offset="0" max-vertical-offset="225">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/java/controller/BaseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ServerWithServletsInitializedInWebXml.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/ServerWithServletsInitializedInWebXml.java">
+        <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/ServerWithServletsInitializedInWebXml.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
               <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
@@ -144,55 +164,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServerTheSimplestPossible.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/ServerTheSimplestPossible.java">
+      <file leaf-file-name="ServerTheSimplestPossible.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/ServerTheSimplestPossible.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5153707" vertical-offset="0" max-vertical-offset="553">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
               <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServerWithManyConnectors.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/ServerWithManyConnectors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1095">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServerWithOneContext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/ServerWithOneContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/pom.xml">
+        <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="1005">
-              <caret line="56" column="83" selection-start-line="56" selection-start-column="83" selection-end-line="56" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloHandlerSimplest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/HelloHandlerSimplest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="452" max-vertical-offset="1005">
+              <caret line="56" column="160" selection-start-line="56" selection-start-column="160" selection-end-line="56" selection-end-column="160" />
               <folding />
             </state>
           </provider>
@@ -239,10 +225,8 @@
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/JettyMavenHelloWarApp/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/JettyMavenHelloWarApp/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/WebApplicationProjectWithMavenModule/src/main/java/controller/BaseController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/JettyMavenHelloWarApp/src/main/java/org/example/HelloServlet.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/JettyMavenHelloWarApp/src/main/java/org/example/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/JettyExperimentingModule/pom.xml" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/HelloWorld.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/HelloServlet.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/ServerManyConnectors/ServerWithManyConnectors.java" />
@@ -252,7 +236,6 @@
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/ServerOneContext/HelloHandlerOneContext.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/ServerOneContext/ServerWithOneContext.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/ServerServletsControledFrom/HelloServlet.java" />
-        <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/ServerServlets/HelloWorld.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/ServerServlets/ServerWithServletsInitializedInWebXml.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddingJetty/ServerServlets/StasServlet.java" />
@@ -263,6 +246,9 @@
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServletsControledFrom/HelloServlet2.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServletsControledFrom/HelloWorld2.java" />
         <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/EmbeddingJettyWithServlet.java" />
+        <option value="$PROJECT_DIR$/JettyExperimentingModule/pom.xml" />
+        <option value="$PROJECT_DIR$/JettyExperimentingModule/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -390,206 +376,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationSpringAndTomcat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationSpringAndTomcat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationSpringAndTomcat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationSpringAndTomcat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebApplicationSpringAndTomcat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JettyExperimentingModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JettyExperimentingModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LotsOfProgfun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JettyExperimentingModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JettyEmbeddedSimpleProjects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1193,7 +979,7 @@
       <workItem from="1428245795315" duration="6046000" />
       <workItem from="1428821064695" duration="1670000" />
       <workItem from="1429016442165" duration="406000" />
-      <workItem from="1429222578845" duration="21550000" />
+      <workItem from="1429222578845" duration="22019000" />
     </task>
     <task id="LOCAL-00001" summary="Playing with code">
       <created>1428237272453</created>
@@ -1219,11 +1005,17 @@
       <option name="project" value="LOCAL" />
       <updated>1430047753515</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updating progfun :)">
+      <created>1430142642494</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1430142642494</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89218000" />
+    <option name="totallyTimeSpent" value="89687000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1302,7 +1094,8 @@
     <MESSAGE value="Playing with code 1" />
     <MESSAGE value="markdown" />
     <MESSAGE value="updating progfun" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating progfun" />
+    <MESSAGE value="updating progfun :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating progfun :)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1574,17 +1367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PlayWithScala/src/main/java/PlayObject.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1007">
@@ -1699,34 +1481,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="2025">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LotsOfProgfun.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1755,14 +1513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/java/controller/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/webapp/WEB-INF/pages/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
@@ -1771,7 +1521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/HelloHandler.java">
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/HelloHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41899443" vertical-offset="0" max-vertical-offset="716">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
@@ -1781,7 +1531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/HelloHandlerOneContext.java">
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/HelloHandlerOneContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="35" />
@@ -1797,7 +1547,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/HelloServlet.java">
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/HelloServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
@@ -1805,23 +1555,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="1005">
-          <caret line="56" column="83" selection-start-line="56" selection-start-column="83" selection-end-line="56" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/HelloHandlerSimplest.java">
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/HelloHandlerSimplest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
@@ -1829,7 +1563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/ServerWithManyConnectors.java">
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerManyConnectors/ServerWithManyConnectors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1095">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
@@ -1839,7 +1573,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/ServerWithOneContext.java">
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerOneContext/ServerWithOneContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
@@ -1849,7 +1583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/ServerWithServletsInitializedInWebXml.java">
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerServlets/ServerWithServletsInitializedInWebXml.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
           <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
@@ -1857,10 +1591,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/ServerTheSimplestPossible.java">
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/java/JettyEmbeddedSimpleProjects/ServerSimplest/ServerTheSimplestPossible.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5153707" vertical-offset="0" max-vertical-offset="553">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="452" max-vertical-offset="1005">
+          <caret line="56" column="160" selection-start-line="56" selection-start-column="160" selection-end-line="56" selection-end-column="160" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="227" max-vertical-offset="780">
+          <caret line="28" column="83" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/java/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6792453" vertical-offset="30" max-vertical-offset="2025">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
           <folding />
         </state>
       </provider>
