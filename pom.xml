@@ -10,13 +10,13 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>WebApplicationSpringAndTomcat</module>
-        <module>UsingSeleniumGridModule</module>
-        <module>SeleniumTipsAndTricks</module>
-        <module>ProgFun</module>
         <module>BrowserstackWithJunitAndTestNgWithParallelRuns</module>
-        <module>PlayWithScala</module>
+        <module>JavaAndScalaFunctionality</module>
+        <module>ProgFun</module>
+        <module>SeleniumAppiumMobileAppModule</module>
+        <module>SeleniumTipsAndTricks</module>
         <module>WebApplicationJettyExperimentingModule</module>
+        <module>WebApplicationSpringAndTomcat</module>
     </modules>
 
 </project>

@@ -30,9 +30,9 @@
         <module name="otherexamples" />
         <module name="PlayWithScala" />
         <module name="ProgFun" />
+        <module name="SeleniumAppiumMobileAppModule" />
         <module name="SeleniumTipsAndTricks" />
         <module name="server" />
-        <module name="UsingSeleniumGrid" />
         <module name="WebApplicationJettyExperimentingModule" />
         <module name="WebApplicationProjectWithMavenArtifact" />
         <module name="WebApplicationSpringAndTomcat" />

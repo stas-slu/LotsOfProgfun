@@ -5,10 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/BrowserstackWithJunitAndTestNgWithParallelRuns.iml" filepath="$PROJECT_DIR$/BrowserstackWithJunitAndTestNgWithParallelRuns/BrowserstackWithJunitAndTestNgWithParallelRuns.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAndScalaFunctionality/JavaAndScalaFunctionality.iml" filepath="$PROJECT_DIR$/JavaAndScalaFunctionality/JavaAndScalaFunctionality.iml" />
       <module fileurl="file://$PROJECT_DIR$/LotsOfProgfun.iml" filepath="$PROJECT_DIR$/LotsOfProgfun.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PlayWithScala/PlayWithScala.iml" filepath="$PROJECT_DIR$/PlayWithScala/PlayWithScala.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgFun/ProgFun.iml" filepath="$PROJECT_DIR$/ProgFun/ProgFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumAppiumMobileAppModule/SeleniumAppiumMobileAppModule.iml" filepath="$PROJECT_DIR$/SeleniumAppiumMobileAppModule/SeleniumAppiumMobileAppModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeleniumTipsAndTricks/SeleniumTipsAndTricks.iml" filepath="$PROJECT_DIR$/SeleniumTipsAndTricks/SeleniumTipsAndTricks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UsingSeleniumGridModule/UsingSeleniumGrid.iml" filepath="$PROJECT_DIR$/UsingSeleniumGridModule/UsingSeleniumGrid.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebApplicationJettyExperimentingModule/WebApplicationJettyExperimentingModule.iml" filepath="$PROJECT_DIR$/WebApplicationJettyExperimentingModule/WebApplicationJettyExperimentingModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebApplicationSpringAndTomcat/WebApplicationSpringAndTomcat.iml" filepath="$PROJECT_DIR$/WebApplicationSpringAndTomcat/WebApplicationSpringAndTomcat.iml" />
     </modules>
