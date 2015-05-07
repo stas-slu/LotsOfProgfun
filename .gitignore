@@ -10,3 +10,7 @@
 log/
 target/
 dependency-reduced-pom.xml
+
+#Project
+workspace.xml
+tasks.xml
