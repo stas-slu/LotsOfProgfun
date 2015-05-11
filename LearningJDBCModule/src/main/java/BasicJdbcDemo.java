@@ -1,11 +1,7 @@
-import java.io.IOException;
-import java.io.InputStream;
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.Properties;
 
 /**
  * A sample program that demonstrates how to execute SQL SELECT statement
