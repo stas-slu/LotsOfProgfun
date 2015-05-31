@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+
+    <!--
+    Let's create Spring configuration file with below data, file name can be anything.
+
+    The XML contains configuration for both constructor-based and setter-based dependency injection.
+    Since MyXMLApplication is using setter method for injection, the bean configuration contains property element for injection.
+    For constructor based injection, we have to use constructor-arg element.
+
+    The configuration XML file is placed in the source directory, so it will be in the classes directory after build.
+    -->
+
+    <!--
+        <bean id="MyXMLApp" class="com.journaldev.spring.di.consumer.MyXMLApplication">
+            <constructor-arg>
+                <bean class="com.journaldev.spring.di.services.TwitterService" />
+            </constructor-arg>
+        </bean>
+    -->
+    <bean id="twitter" class="com.journaldev.spring.di.services.TwitterService"></bean>
+    <bean id="MyXMLApp" class="com.journaldev.spring.di.consumer.MyXMLApplication">
+        <property name="service" ref="twitter"></property>
+    </bean>
+</beans>

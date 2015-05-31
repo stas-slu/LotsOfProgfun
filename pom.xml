@@ -10,13 +10,14 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>BrowserstackWithJunitAndTestNgWithParallelRuns</module>
         <module>JavaAndScalaFunctionality</module>
         <module>ProgFun</module>
-        <module>SeleniumAppiumMobileAppModule</module>
         <module>SeleniumTipsAndTricks</module>
         <module>WebApplicationJettyExperimentingModule</module>
         <module>WebApplicationSpringAndTomcat</module>
+        <module>DependencyInjectionExample</module>
+        <module>spring-dependency-injection</module>
+        <module>SpringBeanLifeCycle</module>
     </modules>
 
 </project>
