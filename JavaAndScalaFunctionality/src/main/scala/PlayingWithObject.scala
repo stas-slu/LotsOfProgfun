@@ -10,18 +10,18 @@ object Main {
 
   def main(args: Array[String]) = {
 
-    println(SimpleObject.param1)
+    println(s"Print 1: ${SimpleObject.param1}")
 
-    println(SimpleObject.param2)
+    println(s"Print 2: ${SimpleObject.param2}")
 
     //SimpleObject.param1 = 11
     SimpleObject.param2 = "No"
 
-    println(SimpleObject.param2)
+    println(s"Print 3: ${SimpleObject.param2}")
 
-    println(SimpleObject.method1)
+    println(s"Print 4: ${SimpleObject.method1}")
 
-    println(SimpleObject.sum(10, 15))
+    println(s"Print 5: ${SimpleObject.sum(10, 15)}")
 
   }
 
