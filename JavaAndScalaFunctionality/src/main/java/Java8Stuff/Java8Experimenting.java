@@ -251,15 +251,6 @@ public class Java8Experimenting {
                 .sorted((a, b) -> b.compareTo(a))
                 .forEach(System.out::println); // "DDD2", "DDD1", "CCC", "BBB3", "BBB2", "AAA2", "AAA1"
 
-        //FlatMap
-        //Returns a stream consisting of the results of replacing each element of this stream with the contents of a
-        //mapped stream produced by applying the provided mapping function to each element.
-        //Each mapped stream is closed after its contents have been placed into this stream. This is an intermediate operation.
-        stringCollection
-                .stream()
-                        // .flatMap((s) -> s.charAt(0))  //TODO ROI - fix
-                .forEach(System.out::println); // "DDD2", "DDD1", "CCC", "BBB3", "BBB2", "AAA2", "AAA1"
-
         //Reduce
         //This terminal operation performs a reduction on the elements of the stream with the given function.
         //The result is an Optional holding the reduced value.
