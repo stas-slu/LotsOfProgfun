@@ -12,7 +12,7 @@
     <modules>
         <module>JavaAndScalaFunctionality</module>
         <module>ProgFun</module>
-        <module>SeleniumTipsAndTricks</module>
+        <module>AutomationTipsAndTricksDirectory</module>
         <module>WebApplicationJettyExperimentingModule</module>
         <module>WebApplicationSpringAndTomcat</module>
         <module>DependencyInjectionExample</module>
