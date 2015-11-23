@@ -18,6 +18,7 @@
         <module>DependencyInjectionExample</module>
         <module>spring-dependency-injection</module>
         <module>SpringBeanLifeCycle</module>
+        <module>CodeWarsModule</module>
     </modules>
 
 </project>
