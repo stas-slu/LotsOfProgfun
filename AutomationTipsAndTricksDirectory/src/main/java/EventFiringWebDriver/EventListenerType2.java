@@ -13,7 +13,9 @@ public class EventListenerType2 extends AbstractWebDriverEventListener {
 
     @Override
     public void onException(Throwable arg0, WebDriver arg1) {
-        System.out.println("There is an exception in the script, please find the below error description" );
+        System.out.println("************************************************************************************************" );
+        System.out.println("EventListenerType2: There is an exception in the script, please find the below error description" );
+        System.out.println("************************************************************************************************" );
         arg0.printStackTrace();
     }
 }

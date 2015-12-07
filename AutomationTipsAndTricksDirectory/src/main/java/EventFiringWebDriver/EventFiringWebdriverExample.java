@@ -14,16 +14,19 @@ public class EventFiringWebdriverExample {
 
         EventFiringWebDriver eventFiringWD= new EventFiringWebDriver(driver);
 
-        EventListenerType2 eventListener = new EventListenerType2();
+        EventListenerType1 eventListener1 = new EventListenerType1();
+        EventListenerType2 eventListener2 = new EventListenerType2();
 
-        //Register the Listener with the event firing driver
-        eventFiringWD.register(eventListener);
+        //Register the Listeners with the event firing driver
+        eventFiringWD.register(eventListener1);
+        eventFiringWD.register(eventListener2);
 
         eventFiringWD.get("https://www.google.co.il/");
 
         eventFiringWD.findElement(By.className("nosuchclassName"));
 
          //Just in case, in any point if you want any listener to stop listening the EventFiringWebDriver, you can do it by simply unregister it.
-        eventFiringWD.unregister(eventListener);
+        eventFiringWD.unregister(eventListener1);
+        eventFiringWD.unregister(eventListener2);
     }
 }
