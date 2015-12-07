@@ -1,4 +1,4 @@
-package EventFiringWebDriver;
+package EventFiringWebDriver.EventFiringWebDriverWithNormalWebDriver;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -26,9 +26,7 @@ import org.openqa.selenium.support.events.WebDriverEventListener;
  *
  * http://www.seleniummonster.com/eventfiringwebdriver-and-event-listeners-in-selenium/
  *
- * https://gist.github.com/krmahadevan/1728633
- */
-
+ * */
 public class EventListenerType1 implements WebDriverEventListener {
 
     @Override
