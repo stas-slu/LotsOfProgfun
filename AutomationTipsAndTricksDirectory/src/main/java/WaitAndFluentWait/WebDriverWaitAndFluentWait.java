@@ -10,7 +10,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
-import org.openqa.selenium.support.ui.SystemClock;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Arrays;
@@ -26,7 +25,7 @@ public class WebDriverWaitAndFluentWait {
 
     @Before
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
         DesiredCapabilities dc = DesiredCapabilities.chrome();
         dc.setCapability("driver.switches", Arrays.asList("--start-maximized"));
         driver = new ChromeDriver(dc);
