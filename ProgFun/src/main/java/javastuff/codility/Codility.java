@@ -118,6 +118,8 @@ public class Codility {
      * A[4] = 1
      * So, we have five pairs of passing cars: (0, 1), (0, 3), (0, 4), (2, 3), (2, 4).
      *
+     * The function should return −1 if the number of pairs of passing cars exceeds 1,000,000,000.
+     *
      * http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Passing-Cars-PassingCars/cu6k/56164aa10cf27d786fdc9880
      */
     public int passingCarsSolution(int[] arr) {
