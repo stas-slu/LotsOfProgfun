@@ -1,8 +1,8 @@
 package javastuff.codility;
 
 /**
- בנה פונקציה המקבלת מערך של מספרים INT ומחזירה מספר P המקיים שהסכום של P אברי המערך מתחילת המערך וסכום של P אברי המערך מסוף המערך שווים
- אם לא קיים P כזה יש להחזיר -1
+ * Function receives array of ints and returns number P that sum of P numbers in beggining and P numbers
+ * in the end are equal
  */
 public class SumInBeginningAndAndIsTheSame {
 

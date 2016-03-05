@@ -1,21 +1,34 @@
 package javastuff.codility;
 
-import scala.Array;
-
 import java.util.Arrays;
 
 public class Codility {
 
     public static void main(String[] args) {
+        //working with binary numbers
         int nubmer = 9;
-        String numberBinary = Integer.toBinaryString(9);
+        String numberBinary = Integer.toBinaryString(nubmer);
 
+        //Filling array with zeroes
         int len = 100000;
         int[] r = new int[len];
         Arrays.fill(r, 0);
+
+        //Parsing binary integer to int
+        int a = Integer.parseInt("110", 2);
     }
 
-    //http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Triangle-Triangle/cu6k/56164b9f0cf25fa7fe2d0a3c
+    /**
+     * A zero-indexed array A consisting of N integers is given.
+     * A triplet (P, Q, R) is triangular if 0 ≤ P < Q < R < N and:
+     * A[P] + A[Q] > A[R],
+     * A[Q] + A[R] > A[P],
+     * A[R] + A[P] > A[Q].
+     *
+     * Write a function that returns 1 if there exists a triangular triplet
+     *
+     * http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Triangle-Triangle/cu6k/56164b9f0cf25fa7fe2d0a3c
+     */
     public int triangleSolution(int[] arr) {
 
         Arrays.sort(arr);
@@ -28,7 +41,11 @@ public class Codility {
         return 0;
     }
 
-    //http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Distinct-Distinct/cu6k/56164bcd0cf27d786fdc9918
+    /**
+     * given a zero-indexed array A consisting of N integers, returns the number of distinct values in array A.
+     *
+     * http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Distinct-Distinct/cu6k/56164bcd0cf27d786fdc9918
+     */
     public int distinctSolution(int[] arr) {
 
         if(arr.length==0){
@@ -52,7 +69,13 @@ public class Codility {
         return count;
     }
 
-    //http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Max-Product-Of-Three-MaxProductOfThree/cu6k/56164b5e0cf25fa7fe2d0972
+    /**
+     * A non-empty zero-indexed array A consisting of N integers is given.
+     * The product of triplet (P, Q, R) equates to A[P] * A[Q] * A[R] (0 ≤ P < Q < R < N).
+     * Find the maximal product of any triplet
+     *
+     * http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Max-Product-Of-Three-MaxProductOfThree/cu6k/56164b5e0cf25fa7fe2d0972
+     */
     public int maxProductOfThreeSolution(int[] arr) {
 
         Arrays.sort(arr);
@@ -62,29 +85,41 @@ public class Codility {
         return Math.max(firstMax, secondMax);
     }
 
-    public static void twoMinimumNumbersInArray() { //it's not NLOGN but just N!
+    /**
+     * Find 2 lowest number in array in O(n), not O(nlogn) as standard sorting
+     */
+    public static void twoMinimumNumbersInArray() {
         int[] myArray = { 5, 8, 12, 9, 50, 11, 4 };
         System.out.println(Arrays.toString(myArray));
 
         int[] lowestValues = new int[3];
         Arrays.fill(lowestValues, Integer.MAX_VALUE);
 
-        for(int n : myArray) {
-            if(n < lowestValues[2]) {
-                lowestValues[2] = n;
-                Arrays.sort(lowestValues);
+        for(int num : myArray) {
+            if(num < lowestValues[2]) {
+                lowestValues[2] = num;
+                Arrays.sort(lowestValues); //im sceptic about this not nlogn
             }
         }
         System.out.println(Arrays.toString(lowestValues));
     }
 
-    //http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Minimum-Average-Two-Slice-MinAvgTwoSlice/cu6k/56164ae60cf2f8c14658cd6b
-    public int minAvgTwoSliceSolution(int[] arr) {
-        return 0; //TODO
-        //here a solution: http://codesays.com/2014/solution-to-min-avg-two-slice-by-codility/
-    }
-
-    //http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Passing-Cars-PassingCars/cu6k/56164aa10cf27d786fdc9880
+    /**
+     * Passing Cars.
+     * Elements of array A represent consecutive cars on a road, Array A contains only 0s and/or 1s:
+     * 0 represents a car traveling east -->
+     * 1 represents a car traveling west <--
+     * The goal is to count passing cars.
+     * For example, consider array A such that:
+     * A[0] = 0
+     * A[1] = 1
+     * A[2] = 0
+     * A[3] = 1
+     * A[4] = 1
+     * So, we have five pairs of passing cars: (0, 1), (0, 3), (0, 4), (2, 3), (2, 4).
+     *
+     * http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Passing-Cars-PassingCars/cu6k/56164aa10cf27d786fdc9880
+     */
     public int passingCarsSolution(int[] arr) {
         int countZeroes = 0;
         int countCars = 0;
@@ -103,12 +138,5 @@ public class Codility {
             }
         }
         return countCars;
-    }
-
-    //http://ridg18.wix.com/codingtutorial#!Codility-Solutions-Count-Div-CountDiv/cu6k/56164a540cf2a7bb74cd86f1
-    public int countDivSolution(int A, int B, int K) {
-        return 0; //TODO
-        //solution http://stackoverflow.com/questions/25661519/find-the-number-of-divisors-for-a-number-in-range
-        // The concept here is to find how much B get divided by K MINUS how much A get divided
     }
 }

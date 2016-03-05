@@ -3,7 +3,7 @@ package javastuff.codility;
 import java.util.*;
 
 /**
- * בנה פונקציה שמקבלת מספר INT ומחזירה את המספר הגדול ביותר שניתן להרכיב עם הספרות של המספר שקיבלה הפונקציה לדוג' הפונק' מקבלת את המספר 251 יש להחזיר 521
+ * Function receives arrays of integers and return the largest number that can be made from its numbers
  */
 public class BiggestInteger {
 
