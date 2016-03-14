@@ -1,12 +1,52 @@
 package javastuff.basicjava;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
 public class ManipulationOfStrings {
 
     public static void main(String[] args) {
         String string = "stas trying strings";
+
+        new ManipulationOfStrings().readNextWord(string);
+
+        iterateOverString(string);
+
         reverseStringTraditionalApproach(string);
         reverseStringRecursionApproach(string);
         reverseStringWords(string);
+    }
+
+    private void readNextWord(String string) {
+        ClassLoader classLoader = getClass().getClassLoader();
+        File myFile = new File(classLoader.getResource("test-text.txt").getFile());
+
+        try(Scanner scanner = new Scanner(myFile)) {
+
+            while(scanner.hasNextLine()) {
+                final String line = scanner.nextLine();
+                System.out.println(String.format("Line: %s", line));
+            }
+
+            scanner.close();
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void iterateOverString(String string) {
+        for(int i = 0; i < string.length(); i++) {
+            char c = string.charAt(i);
+            System.out.println(String.format("Char is: %c", c));
+        }
+
+        System.out.println();
+
+        for(char c : string.toCharArray()) {
+            System.out.println(String.format("Char is: %c", c));
+        }
     }
 
     private static void reverseStringTraditionalApproach(String string) {
