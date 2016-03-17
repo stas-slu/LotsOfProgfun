@@ -1,6 +1,5 @@
 package javastuff.linkedlists;
 
-
 public class LinkedListGames {
 
     public static void main(String[] argc) {
@@ -43,49 +42,39 @@ class Node {
 }
 
 class LinkedList {
+    static final int END_OF_LIST = -1;
     Node head;
     int numberOfNodes;
 
     public void add(int data) {
+        add(data, END_OF_LIST);
+    }
+
+    public void add(int data, int index) {
         Node node = new Node(data);
 
         if(head == null) {
             head = node;
         } else {
             Node current = head;
-            while(current.next != null) {
-                current = current.next;
+            if(index == END_OF_LIST) {
+                while(current.next != null) {
+                    current = current.next;
+                }
+
+                current.next = node;
+            } else {
+                int indexCounter = 0;
+                while(current.next != null && indexCounter < index) {
+                    current = current.next;
+                    indexCounter++;
+                }
+
+                node.next = current.next;
+                current.next = node;
             }
-
-            current.next = node;
         }
 
-        numberOfNodes++;
-    }
-
-    public void add1(int data) {
-
-        // Initialize Node only incase of 1st element
-        if (head == null) {
-            head = new Node(data);
-        }
-
-        Node crunchifyTemp = new Node(data);
-        Node crunchifyCurrent = head;
-
-        // Let's check for NPE before iterate over crunchifyCurrent
-        if (crunchifyCurrent != null) {
-
-            // starting at the head node, crawl to the end of the list and then add element after last node
-            while (crunchifyCurrent.next != null) {
-                crunchifyCurrent = crunchifyCurrent.next;
-            }
-
-            // the last node's "next" reference set to our new node
-            crunchifyCurrent.next = crunchifyTemp;
-        }
-
-        // increment the number of elements variable
         numberOfNodes++;
     }
 
@@ -121,5 +110,25 @@ class LinkedList {
             kNodeFromEnd = kNodeFromEnd.next;
         }
         return kNodeFromEnd.data;
+    }
+
+    public void addInMiddleWithoutCreatingNewList(int newData) {
+        int middle = (int) Math.floor(numberOfNodes / 2);
+        add(newData, middle);
+    }
+
+    @Override
+    public String toString(){
+        String output = "";
+
+        if (head != null) {
+            Node current = head.next;
+            while (current != null) {
+                output += "[" + Integer.toString(current.data) + "]";
+                current = current.next;
+            }
+
+        }
+        return output;
     }
 }
