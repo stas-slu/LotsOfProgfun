@@ -1,6 +1,10 @@
 package javastuff.codility;
 
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.Set;
 
 public class Codility {
 
@@ -140,5 +144,74 @@ public class Codility {
             }
         }
         return countCars;
+    }
+
+    /**
+     * Compute number of distinct absolute values of sorted array elements.
+     * For example, for [-5, -3, -1, 0, 3, 6] the absolute distinct count is 5, because there is 5 distinct
+     * absolute values: 0, 1, 3, 5, 6
+     *
+     * http://www.martinkysel.com/codility-absdistinct-solution/
+     */
+    public int absDistinct(int[] arr) {
+        Set<Integer> set = new HashSet<>();
+
+        for(int i=0;i<arr.length;i++){
+            set.add(Math.abs(arr[i]));
+        }
+        return set.size();
+    }
+
+    /**
+     * Compute the height of a binary link-tree.
+     * Expected worst-case time complexity is O(N)
+     * Expected worst-case space complexity is O(N)
+     *
+     * http://www.martinkysel.com/codility-treeheight-solution/
+     * https://codesays.com/2014/solution-to-tree-height-by-codility/
+     */
+    public int treeHeight1(Tree tree) {
+        if(tree == null) {
+            return -1;
+        }
+        int result = 0;
+
+        result = Math.max(result, 1 + treeHeight1(tree.left));
+        result = Math.max(result, 1 + treeHeight1(tree.right));
+
+        return result;
+    }
+
+    public int treeHeight2(Tree tree) { //this one much better
+        if (tree == null) {
+            return -1;
+        }
+
+        return 1 + Math.max(treeHeight2(tree.left), treeHeight2(tree.right));
+    }
+
+    class Tree {
+        Tree left;
+        Tree right;
+        int data;
+    }
+
+    /**
+     * Find longest sequence of zeros in binary representation of an integer
+     *
+     * Expected worst-case time complexity is O(log(N))
+     * Expected worst-case space complexity is O(1)
+     *
+     * http://www.martinkysel.com/codility-binarygap-solution/
+     * http://stackoverflow.com/questions/8340549/find-longest-series-of-ones-in-a-binary-digit-array
+     */
+    public int binaryGap(int number) {
+        String binaryNum = Integer.toBinaryString(number);
+
+        LinkedList<String> list = new LinkedList<String>(Arrays.asList(binaryNum.split("0+")));
+        //very elegant, but because of the sort its run time is O(nlogn). Bad solution.
+        Collections.sort(list);
+        int maxLength = list.getLast().length();
+        return maxLength;
     }
 }
