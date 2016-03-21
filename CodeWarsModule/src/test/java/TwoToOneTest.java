@@ -1,9 +1,6 @@
-package codewars;
-
-import static org.junit.Assert.*;
-
-import javastuff.codewars.TwoToOne;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class TwoToOneTest {
 

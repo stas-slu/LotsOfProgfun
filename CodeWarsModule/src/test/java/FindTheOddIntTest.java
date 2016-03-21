@@ -1,6 +1,3 @@
-package codewars;
-
-import javastuff.codewars.FindTheOddInt;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

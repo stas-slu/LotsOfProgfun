@@ -1,10 +1,6 @@
-package codewars;
-
-import javastuff.codewars.MaximumSubarraySum;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-
 
 /**
  * The maximum sum subarray problem consists in finding the maximum sum of a contiguous subsequence in an array or list of integers:
