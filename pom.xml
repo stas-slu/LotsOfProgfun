@@ -11,12 +11,12 @@
 
     <modules>
         <module>JavaAndScalaFunctionality</module>
-        <module>ProgFun</module>
         <module>AutomationTipsAndTricksDirectory</module>
         <module>WebApplicationJettyExperimentingModule</module>
         <module>WebApplicationSpringAndTomcat</module>
         <module>DependencyInjectionExample</module>
         <module>spring-dependency-injection</module>
+        <module>LearningJDBCModule</module>
         <module>SpringBeanLifeCycle</module>
         <module>CodeWarsModule</module>
     </modules>
