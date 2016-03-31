@@ -19,6 +19,7 @@
         <module>LearningJDBCModule</module>
         <module>SpringBeanLifeCycle</module>
         <module>CodeWarsModule</module>
+        <module>RedisPlaygroundModule</module>
     </modules>
 
 </project>
