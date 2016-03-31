@@ -3,6 +3,17 @@ import redis.clients.jedis.Jedis;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * Interesting explanation about Redis use cases:
+ *
+ * http://stackoverflow.com/questions/7535184/when-to-use-a-key-value-store-such-as-redis-instead-along-side-of-a-sql-database
+ *
+ * http://stackoverflow.com/questions/7888880/what-is-redis-and-what-do-i-use-it-for
+ *
+ * http://oldblog.antirez.com/post/take-advantage-of-redis-adding-it-to-your-stack.html
+ *
+ * https://www.quora.com/What-are-the-disadvantages-of-Redis
+ */
 public class RedisStringJava {
 
     /**
