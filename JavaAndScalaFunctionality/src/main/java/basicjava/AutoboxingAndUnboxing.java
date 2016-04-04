@@ -1,6 +1,9 @@
 package basicjava;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class AutoboxingAndUnboxing {
 
@@ -31,5 +34,13 @@ public class AutoboxingAndUnboxing {
         //after java5
         Integer numberObjectB = 3; //autoboxing (primitive to object)
         int numberPrimitiveB = numberObjectB; //unboxing (object to primitive)
+
+        /**
+         * Generics don't support primitive types.
+         * Primitives still can be added later with autoboxing
+         *
+         * http://stackoverflow.com/questions/2721546/why-dont-java-generics-support-primitive-types
+         */
+        //List<Integer> myMap = new ArrayList<int>();
     }
 }
