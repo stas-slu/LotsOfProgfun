@@ -54,11 +54,12 @@ class MyClass {
     }
 
     /**
-     * If equals() NOT override (and hashCode() does), it means that if hashcode present, then use equals() method on
-     * the key to search the keys i the basket to determine if the element is to be added or replace.
-     * If it's not there then, and add that element to the map.
+     * If equals() NOT override and hashCode() does, it means that for equal hashCode(), twp different objects
+     * would enter the same bucket. So we traverse through linked list of key/values for the same key, comparing
+     * keys with equals() to find the specific key/value to get updated.
+     * And, without equals(), we won't succeed to compare the key!
      */
- /*   @Override
+    @Override
     public boolean equals(final Object obj) {
         if (this == obj)
             return true;
@@ -73,5 +74,5 @@ class MyClass {
         } else if (!importantField.equals(other.importantField))
             return false;
         return true;
-    }*/
+    }
 }
