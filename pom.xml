@@ -10,16 +10,17 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>JavaAndScalaFunctionality</module>
         <module>AutomationTipsAndTricksDirectory</module>
+        <module>CodeWarsModule</module>
+        <module>DependencyInjectionExample</module>
+        <module>JavaPlayingDirectory</module>
+        <module>LearningJDBCModule</module>
+        <module>RedisPlaygroundModule</module>
+        <module>ScalaPlaying</module>
+        <module>spring-dependency-injection</module>
+        <module>SpringBeanLifeCycle</module>
         <module>WebApplicationJettyExperimentingModule</module>
         <module>WebApplicationSpringAndTomcat</module>
-        <module>DependencyInjectionExample</module>
-        <module>spring-dependency-injection</module>
-        <module>LearningJDBCModule</module>
-        <module>SpringBeanLifeCycle</module>
-        <module>CodeWarsModule</module>
-        <module>RedisPlaygroundModule</module>
     </modules>
 
 </project>
