@@ -11,6 +11,7 @@
 
     <modules>
         <module>AutomationTipsAndTricksDirectory</module>
+        <module>Selenium3Module</module>
         <module>CodeWarsModule</module>
         <module>DependencyInjectionExample</module>
         <module>JavaPlayingDirectory</module>
