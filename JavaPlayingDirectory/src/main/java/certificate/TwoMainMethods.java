@@ -5,16 +5,16 @@ package certificate;
  *
  * http://stackoverflow.com/questions/4754058/multiple-main-methods-in-java
  */
-class FirstClassMultiply {
+public class TwoMainMethods {
 
     public static void main (String args[]){
-        System.out.println("Using FirstClassMultiply");
-        FirstClassMultiply mult = new FirstClassMultiply();
+        System.out.println("Using TwoMainMethods");
+        TwoMainMethods mult = new TwoMainMethods();
         System.out.println("Multiple is :" + mult.multiply(2, 4));
     }
     public static void main (int i){
-        System.out.println("Using FirstClassMultiply with integer argument");
-        FirstClassMultiply mult = new FirstClassMultiply();
+        System.out.println("Using TwoMainMethods with integer argument");
+        TwoMainMethods mult = new TwoMainMethods();
         System.out.println("Sum is :" + mult.multiply(2, 5));
     }
 
@@ -28,10 +28,10 @@ class SecondClass {
     public static void main(String args[]) {
         System.out.println("Using SecondClass");
 
-        FirstClassMultiply mult = new FirstClassMultiply();
+        TwoMainMethods mult = new TwoMainMethods();
         System.out.println("Multiply is :" + mult.multiply(2, 3));
 
-        FirstClassMultiply.main(null);
-        FirstClassMultiply.main(1);
+        TwoMainMethods.main(null);
+        TwoMainMethods.main(1);
     }
 }
