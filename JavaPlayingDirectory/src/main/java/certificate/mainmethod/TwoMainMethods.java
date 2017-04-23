@@ -1,4 +1,4 @@
-package certificate;
+package certificate.mainmethod;
 
 /**
  * Will generate two separate .class files!
